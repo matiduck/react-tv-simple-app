@@ -1,0 +1,9 @@
+//@import '~bootstrap/scss/functions';
+//@import '~bootstrap/scss/variables';
+
+.search {
+  //background: $gray-200;
+  background: #eee;
+  background: var(--light, #444);
+  padding: 10px;
+}
